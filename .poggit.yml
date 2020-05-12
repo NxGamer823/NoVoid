@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/altagsleben/NoVoid
+build-by-default: true
+branches:
+- master
+projects:
+  NoVoid:
+    path: ""
+...
