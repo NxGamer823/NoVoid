@@ -1,0 +1,5 @@
+name: noVoid
+main: Julian\noVoid\Main
+version: 0.0.1 BETA
+api: [3.11.7, 3.12.0]
+author: Julian
