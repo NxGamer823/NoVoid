@@ -5,7 +5,7 @@ If you fall into the void, this will be recognized by the plugin and you will be
 
 This plugin is very helpful for SkyBlock servers.
 
-This plugin is GERMAN!
+This plugin is ENGLISH
 
 # HOW TO INSTALL
 
