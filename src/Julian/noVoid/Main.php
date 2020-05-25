@@ -1,5 +1,5 @@
 <?php
-namespace ImagicalGamer\NoVoid;
+namespace altagsleben\NoVoid;
     use pocketmine\plugin\PluginBase;
     use pocketmine\event\Listener;
     use pocketmine\level\Position;
@@ -26,7 +26,7 @@ public function checkVoid(PlayerMoveEvent $event){
               case 1:
               $player->teleport(new Position($x, $y, $z, $level));
               $player->setHealth($player->getHealth(20));
-              $player->sendMessage("§c§lSystem §r§7» §r§aDu wurdest vor der §eLEERE§r§a gerettet!");
+              $player->sendMessage("§c§lSystem §r§7» §r§aYou were saved!");
               break;
               case 2:
               break;
